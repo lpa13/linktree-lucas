@@ -2,7 +2,7 @@
 
 Um cópia do famoso LinkTree feito por mim. A ideia aqui foi juntar todas minhas informações em um único lugar para que, com um único link você possa ter acesso a todos meus arquivos. 
 
-[Link Tree](https://github.com/lpa13/linktree-lucas)
+[Link Tree](https://lpa13.github.io/linktree-lucas/)
 
 ## Imagens
 

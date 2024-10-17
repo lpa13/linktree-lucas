@@ -149,6 +149,6 @@ footer {
   p {
     text-align: center;
     font-size: 10px;
-    color: rgb(220, 53, 253);
+    color: var(--color);
   }
 }
